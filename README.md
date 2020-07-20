@@ -20,7 +20,7 @@ python run.py
 <img src="https://i.ibb.co/R9vHQm1/carbon-2.png" alt="https://i.ibb.co/R9vHQm1/carbon-2.png" class="shrinkToFit transparent" width="434" height="352">
 
 ## Contributing
-Pull requests are welcome. For major changes without including the developer are prohibited.
+Pull requests are welcome. For major changes without including this repository as original script are prohibited.
 
 Please make sure to update tests as appropriate.
 
